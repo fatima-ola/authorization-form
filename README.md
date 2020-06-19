@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To test the authorization form
 
-Input react as the password
+Input React as the password
 
 ## Available Scripts
 
