@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##To test the authorization form
+## To test the authorization form
 
 Input react as the password
 
